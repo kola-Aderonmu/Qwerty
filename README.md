@@ -1,0 +1,2 @@
+# Qwerty
+Python with AI
