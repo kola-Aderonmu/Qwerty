@@ -1,2 +1,2 @@
-# Qwerty
-Python with AI
+# qwerty
+Event Center App 
